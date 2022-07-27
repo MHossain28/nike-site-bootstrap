@@ -1,0 +1,24 @@
+.con-nav-main{
+    
+}
+.navbar-main{
+    background-color: rgb(172, 255, 255);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+.hearer-banner-tag-main{
+    font-weight: 700 !important;
+}
+.hearer-banner-tag{
+    color: rgb(255, 104, 49);
+}
+.hearer-banner-btn{
+    background-color: blue;
+}
+.socend-head-tag{
+    color: rgb(68, 68, 68);
+}
+.socend-shows-card{
+    border-radius: 15px !important;
+}
